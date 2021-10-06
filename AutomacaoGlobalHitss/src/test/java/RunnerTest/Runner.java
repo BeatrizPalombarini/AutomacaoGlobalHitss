@@ -16,7 +16,7 @@ import io.cucumber.junit.CucumberOptions;
 public class Runner {
 	/* 
 	 * Desenvolvido por Beatriz Palombarini
-	 * Automação Tricentis
+	 * Automação GLobal Hitss
 	 * 
 	 */
 	// Classe utilizada para executar os testes
